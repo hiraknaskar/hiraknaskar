@@ -1,5 +1,5 @@
 <!-- Intro Section -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Hirak Naskar</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN Enthusiast | Problem Solver 🚀</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 
 ### 👨‍💻 About Me:
-- 🌱 I’m currently exploring **DevOps** and **Cloud Technologies**.
+- 🌱 I’m currently exploring **Web Devs** and **Cloud Technologies**.
 - 💼 Open to freelance and full-time opportunities.
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, and **JavaScript**.
 - ⚡ Fun Fact: I love baking cakes and coding while snacking! 🎂💻
@@ -66,10 +66,10 @@
 <!-- Connect With Me -->
 ### 📫 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/YourUsername/">
+  <a href="https://www.linkedin.com/in/hirak-naskar/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourname@example.com">
+  <a href="mailto:hiraknaskar100@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourwebsite.com">
@@ -84,5 +84,5 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
 </p>
 <p align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Hirak Naskar
 </p>
