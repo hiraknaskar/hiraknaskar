@@ -73,7 +73,7 @@ Looking for an exciting and dynamic role where I can learn new skills and increa
 <!-- LeetCode Graph -->
 ### 🧠 **LeetCode Stats**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/hiraknaskar15203?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/hiraknaskar?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 </p>
 
 ---
