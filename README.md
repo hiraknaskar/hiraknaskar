@@ -32,8 +32,6 @@ Looking for an exciting and dynamic role where I can learn new skills and increa
 
 ---
 
-
-
 <!-- Projects Section -->
 ### 🌟 **Projects**
 - 🌐 **[Online Code Compiler IDE](https://github.com/hiraknaskar/online-compiler)**  
@@ -68,6 +66,14 @@ Looking for an exciting and dynamic role where I can learn new skills and increa
 ### 🌟 **Contribution Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiraknaskar&theme=github&custom_title=90+Contributions+in+the+Last+Year" alt="Contribution Graph" />
+</p>
+
+---
+
+<!-- LeetCode Graph -->
+### 🧠 **LeetCode Stats**
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/hiraknaskar15203?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 </p>
 
 ---
