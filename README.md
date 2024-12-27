@@ -96,8 +96,9 @@ Looking for an exciting and dynamic role where I can learn new skills and increa
 <!-- Contribution Graph -->
 ### 🌟 Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=github" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=github&custom_title=90+Contributions+in+the+Last+Year" alt="Contribution Graph" />
 </p>
+
 
 ---
 
