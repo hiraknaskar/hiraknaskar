@@ -70,13 +70,6 @@ Looking for an exciting and dynamic role where I can learn new skills and increa
 
 ---
 
-<!-- Contribution Graph -->
-### 🌟 **Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiraknaskar&theme=github&custom_title=90+Contributions+in+the+Last+Year" alt="Contribution Graph" />
-</p>
-
----
 
 <!-- LeetCode Graph -->
 ### 🧠 **LeetCode Stats**
@@ -91,7 +84,7 @@ Looking for an exciting and dynamic role where I can learn new skills and increa
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hiraknaskar&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiraknaskar&theme=radical" alt="GitHub Streak" width="450"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiraknaskar&theme=radical" alt="GitHub Profile Details" width="900"/>
+  width="900"/>
 </p>
 
 ---
