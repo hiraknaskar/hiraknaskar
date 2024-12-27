@@ -45,6 +45,14 @@ Looking for an exciting and dynamic role where I can learn new skills and increa
 
 ---
 
+<!-- GitHub Stats -->
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiraknaskar&theme=radical" alt="GitHub Profile Details" width="900"/>
+</p>
+
+---
+
 <!-- Achievements Section -->
 ### 🏆 **Achievements**
 - 🥇 **1st Place - HackXFusion:** Built a **Decentralized Voting Application**.
@@ -88,14 +96,7 @@ Looking for an exciting and dynamic role where I can learn new skills and increa
 
 ---
 
-<!-- Fun Badge Animation -->
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
-</p>
 
----
 
 <!-- Connect With Me -->
 ### 📫 **Connect with Me**
