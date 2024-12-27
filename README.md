@@ -27,7 +27,7 @@ Looking for an exciting and dynamic role where I can learn new skills and increa
 ### 🚀 **Languages and Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,javascript,solidity,sql,html,css,react,nextjs,tailwind,nodejs,express,mongodb,aws,firebase,docker,github,postman" alt="Skills Logos" />
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,solidity,html,css,react,nextjs,tailwind,nodejs,express,mongodb,aws,firebase,docker,github,postman" alt="Skills Logos" />
 </p>
 
 ---
